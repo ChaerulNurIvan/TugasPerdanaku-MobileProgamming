@@ -1,2 +1,4 @@
 # TugasPerdanaku-MobileProgamming
- gojek
+Nama:Chaerul nur Ivan
+Nim:17090056
+Kelas:5D
